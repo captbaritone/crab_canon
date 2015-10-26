@@ -41,11 +41,11 @@ music = \new Voice \with {
     \time 4/4
     % For the forward version use:
 
-    % \music
+    \music
 
     % For the retrograde version use:
 
-    \retrograde \music
+    % \retrograde \music
 
     \bar "|."
 
